@@ -1,0 +1,5 @@
+##LJ Code 201 Day 6
+
+It was nice to have a gradual introduction to objects. I had been exposed to them as a result of code academy, but taking the time to look at object literals in particular was really helpful. Further, examining dot notation in how it relates to objects was nice. I have a step-by-step ist of how to access the dom, create the element, give the element content, and insert the element into the dom. This, I trust, will serve to be very helpful for me. 
+
+I really struggled a fair bit during the lab. Mostly, I found myself getting bogged down in the code, struggling to know where to place a curly brace, trying to resolve an error with the inter, or simply not knowing what to do. Something I could do that would help me in the labs would be to write out a strategy in my notebook in which I verbally describe what it is I need to do in its most discrete parts, outline a plan for how to meet each of those parts, and then begin to think about code from there. I believe that gaining a greater appreciation for the problem domain will better eneable me to approach these labs. 
