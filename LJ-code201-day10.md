@@ -1,0 +1,5 @@
+##LJ-Code201-Day10
+
+I learned a lot about GH. What I am taking away from this class regarding GH is the importance of organization, communication, checking the graph provided on the site, and making sure that conditions are right before acting. We had experience working on a GH repo in which we were all collaboraters, and the things I mentioned above proved to be very important. I was reminded of the four steps that are necessary when adding an element to the DOM: create an element, give it content, give it a class/id, and append it to the parent element. 
+
+I gained a lot of experience with using CSS. Specifically, I can say that understanding the box model, the display property, and the position property is of great importance. I spent a lot of time playing around with these qualities, and even if I spent a large amount of time without making any tangible progress, the reality is I am still learning more and more about how CSS works by experimenting with it. I got more and more comfortable with inspecting elements using the browser as a way to figure out how to make things. 
