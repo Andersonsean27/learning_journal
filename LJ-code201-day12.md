@@ -1,0 +1,5 @@
+##LJ Code 201 Day 12
+
+Today went much better than yesterday. I feel like I was focused, present, and ready to learn. Something I realized that really helps me during lab time is to verbally explain what the code is doing to someone else. As I was working with assistant-instructors and the TA, having the opportuntity to verbally explain the code, on a line by line basis, how it was functioning in the scheme of all the code, enabled me to internalize and solidify what I was understanding. It was also a way for me to prove that I am learning. I am learning a lot. 
+
+During lab, I learned how to use while loops and if statements to prevent duplicate images from appearing. I also learned about the concept of edge cases, and that it is okay to continue working even if there are some edge cases so long as what I have built is functional. Additionally, I created a chart that appears when a button is clicked, and that button only appears when the limit of images is reached. This caused me to get a lot of practice in working with event listeners, which was great. In all, it was a productive day, and I feel very satisfied. 
