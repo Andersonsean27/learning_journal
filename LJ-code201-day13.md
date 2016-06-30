@@ -1,0 +1,5 @@
+#LJ Code 201 Day 13
+
+Today I had a unique experience. I was working through my code with Nick, and he had me read and explain, line-by-line, each and every line of my code. It was certainly challenging, but I did it! I feel like I am making real progress. I am making connections and understanding things on deeper levels. As I said yesterday, verbally explaining code is important for my learning, and having the opportunity to read through all of it and talk about it gave me the chance to show that I really have learned quite a lot. 
+
+I learned today about local storage. I spent time playing in the console, looking at the local storage, watching as it expanded, and I learned how to update my JavaScript so that it stored the data to local storage. I learned how to use an if statement in order to make it so the code checks for the presence of local storage, and then adds data to that again. Again, it was a good day, one rife with learning. I am looking forward to project week, and to getting with my team. I think we are going to make something very cool! 
