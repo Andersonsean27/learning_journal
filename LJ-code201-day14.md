@@ -1,0 +1,5 @@
+#LJ Code 201 Day 14
+
+Today in lab we got some hands-on experience with merge conflicts. Though things got confusing and messy, I was surprisingly calm throughout the process. The way I saw it, there was a problem that needed to be solved, and we approached it methodocially until we solved it. Merge conflicst are not a big deal. What I am learning is that they are simply a reality and a part of a career in development, so I suppose I am choosing to embrace them rather than run away from them. 
+
+I worked with Kaylin on recreating the weather page, and it went very well. She drove and I navigated. What I learned from her is to approach CSS in a highly methodical way, to create the central structure of markup and then, elemennt-by-element, to go through and make styling changes. I also learned that if you don't know something you should google it. Finally, I learned that you should focus on having the structure in place before you bother with positioning of elements. In all, I can say that I learned quite a bit from this exercise. I like the team I am in and I am looking forward to making our project. 
