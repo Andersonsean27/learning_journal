@@ -1,0 +1,5 @@
+#LJ Code 201 Day 18
+
+A note: I was mistaken on my days for this week, so I will be jumping from day 16 to 18 and accepting the penalty.
+
+We did a lot of pair programming today, and it made me realize that in certain respects it really is an ideal way to go about building things. Having two sets of eyes look over code ensures that minor errors don't typically happen, and it means there are two brains to generate ideas and strategies for when things don't work. It means that there are two minds working together to forge a path ahead when programming. It also means that there are two people to explain what has been going on to the other members of the team, and it means there are only two people to explain to instead of three. In all, pair programming reduces a lot of the chaos of working in teams, and it enables the best of two people to come together to solve problems. I enjoy pair programming both as the driver and the navigator, but I think I prefer driving, because I like being able to handle the keyboard. From Kaylin I learned more about styling, and from working with Doug and Kaylin I learned more about JavaScript.  
